@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Notifications</title>
+		<link>https://splashcoffee.000webhostapp.com/index.html</link>
+		<description>Look at the news on Splash Coffee!</description>
+	<item>
+		<title>New in the menu</title>
+		<link>https://splashcoffee.000webhostapp.com/menu.html</link>
+		<description>New in the menu on our site!</description>
+	</item>
+	<item>
+		<title>New in our gallery</title>
+		<link>https://splashcoffee.000webhostapp.com/gallery.html</link>
+		<description>Renovation on Cafe!</description>
+	</item>
+	</channel>
+</rss>
